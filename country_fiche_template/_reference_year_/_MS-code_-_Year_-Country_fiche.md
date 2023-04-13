@@ -29,17 +29,17 @@
 - Telefax Number:
 - National INSPIRE Website:
 - MIG Contacts: 
- - Contact Person:
- - Email:
- - Telephone Number:
- - Contact Person:
- - Email:
+  - Contact Person:
+  - Email:
+  - Telephone Number:
+  - Contact Person:
+  - Email:
 - MIG T Contacts: 
- - Contact Person:
- - Email:
- - Contact Person:
- - Email:
- - Telephone Number:
+  - Contact Person:
+  - Email:
+  - Contact Person:
+  - Email:
+  - Telephone Number:
 
 #### Coordination Structure & Progress: 
 
