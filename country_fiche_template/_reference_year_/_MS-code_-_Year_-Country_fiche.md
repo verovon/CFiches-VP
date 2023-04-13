@@ -22,24 +22,24 @@
 
 #### National Contact Point
 
-Name of Public Authority:
-Postal Address:
-Contact Email:
-Telephone Number:
-Telefax Number:
-National INSPIRE Website:
-MIG Contacts: 
- Contact Person:
- Email:
- Telephone Number:
- Contact Person:
- Email:
-MIG T Contacts: 
- Contact Person:
- Email:
- Contact Person:
- Email:
- Telephone Number:
+- Name of Public Authority:
+- Postal Address:
+- Contact Email:
+- Telephone Number:
+- Telefax Number:
+- National INSPIRE Website:
+- MIG Contacts: 
+ - Contact Person:
+ - Email:
+ - Telephone Number:
+ - Contact Person:
+ - Email:
+- MIG T Contacts: 
+ - Contact Person:
+ - Email:
+ - Contact Person:
+ - Email:
+ - Telephone Number:
 
 #### Coordination Structure & Progress: 
 
