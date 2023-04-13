@@ -3,7 +3,7 @@
               
   <div class="view view-Mappas view-id-Mappas view-display-id-page_5 view-dom-id-578ae6464ac59559efc04b2ca8b7d03a">
             <div class="view-header">
-       <p>This repository contains the documents (reports, country fiches, etc.) of the countries implementing INSPIRE.
+       <p>This repository contains the Monitoring and Reporting Information (Indicators, Reports and Country fiches) of the countries implementing INSPIRE.
 </p>
 
 
