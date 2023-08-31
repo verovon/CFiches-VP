@@ -1,10 +1,9 @@
 #  Reports
 
-* [English report 2010](./AT___INSPIRE_MR_Report_Austria_2010___EU_made_EN_Translation_final.DOC)
-* [Original language report 2010](http://www.inspire.gv.at/dms/inspire/dateien/Dokumente-INSPIRE--sterreich/INSPIRE_MR_Report_Austria_2010.pdf)
-* [English report 2013](./AT-INSPIRE-Report-2013_ENV-2013-00430-00-00-EN-TRA-00.pdf)
-* [Original language report 2013](http://www.inspire.gv.at/dms/inspire/dateien/Dokumente-INSPIRE--sterreich/INSPIRE_MR_Report_Austria_2013.pdf)
-* [Original language report 2016](http://cdr.eionet.europa.eu/at/eu/inspire/reporting/envvzgjlghttp://cdr.eionet.europa.eu/at/eu/inspire/reporting/envvzgjlg)
+* [Original language report 2010](./http://www.geopunt.be/~/media/geopunt/geowijzer/inspire/documenten/2007-2-ec_reporting_belgium_2009_officieel.pdf)
+* [English report 2013](./http://inspire.jrc.ec.europa.eu/reports/country_reports_mr2012/BE-INSPIRE-Report-2013_ENV-2013--00-00-EN-TRA-00.pdf)
+* [Original language report 2013](./http://www.geopunt.be/~/media/geopunt/geowijzer/inspire/documenten/2007-2-ec_reporting_belgium_2010-2012_final.pdf)
+* [Original language report 2016](./http://cdr.eionet.europa.eu/be/eu/inspire/reporting/envvzjphw)
 
 
 
