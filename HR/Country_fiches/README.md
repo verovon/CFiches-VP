@@ -1,6 +1,6 @@
 #  Country fiches
 
-* [2016](./inspirecountryfichebulgaria_2016.pdf)
+* [2016](https://inspire.ec.europa.eu/sites/default/files/inspirecountryfichecroatia_2016.pdf)
 * [2019](./inspire_-_bulgaria_-_2019_country_fiche.pdf)
 * [2020](./inspire_-_bulgaria_-_2020_country_fiche.pdf)
 * [2021](./fiche_inspire_-_bulgaria_-_2021.pdf)
