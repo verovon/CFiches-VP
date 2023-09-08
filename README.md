@@ -165,6 +165,5 @@
       </tbody>
 </table>
 
-<p>*The country information and MR data displayed are from before Brexit</p>
-
+<p>*The country information and MR data displayed are from before Brexit
     </div>
